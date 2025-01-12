@@ -9,10 +9,6 @@ This project focuses on detecting smoke and fire in videos using deep learning m
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## **Features**

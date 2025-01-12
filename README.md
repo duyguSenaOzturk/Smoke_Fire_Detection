@@ -1,4 +1,6 @@
 # Smoke and Fire Detection
+![fire_image](https://github.com/user-attachments/assets/40a45c7a-ca0f-4e34-8f2b-d16e760069b6)
+
 
 This project focuses on detecting smoke and fire in videos using deep learning models. It includes scripts for data preprocessing, model training, and evaluation. The framework utilizes optical flow, CNN-based feature extraction, and spatial transformations to improve detection accuracy.
 
